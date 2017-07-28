@@ -1,2 +1,2 @@
 # homework
-homework
+This is homework project.
